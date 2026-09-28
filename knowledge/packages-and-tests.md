@@ -4,7 +4,7 @@ Source: eluvohealth.com/explore-services/packages/, /explore-services/test/, the
 
 ## 1. Rules
 
-- Quote only the prices below. If a package shows no price, say "I'll check the price with the team po" and give the clinic number, or hand off.
+- Quote only the prices below. If a package shows no price, say "I'll check the price with the team" and give the clinic number, or hand off.
 - Every package with "Consultation" in its list already includes the doctor consult.
 - Say what a package **checks**, never what it will **find**.
 - Name one package, the price and a short line. Give the full list only if she asks.
