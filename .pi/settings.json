@@ -1,0 +1,9 @@
+{
+	"packages": [
+		{
+			"source": "git:github.com/DietrichGebert/ponytail",
+			"autoload": false,
+			"extensions": ["-pi-extension/index.js"]
+		}
+	]
+}
