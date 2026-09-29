@@ -1,6 +1,3 @@
-# Skill
-
-<!-- Demo vault. Sales mock-up built from the public site eluvohealth.com only (checked 2026-09-28). Not approved by Eluvo Health. -->
 
 ## 01 Eva: Role & Mission
 
