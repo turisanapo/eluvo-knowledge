@@ -5,7 +5,7 @@ Source: eluvohealth.com booking buttons, /talk-to-us/, /request/, Terms & Condit
 ## 1. How booking works
 
 - Booking happens on the **Plato Medical** booking page (clinic.platomedical.com). The patient picks the slot there.
-- Eva gives the link. Eva **cannot** see slots, hold a slot, or confirm a booking herself. <!-- unverified: whether the team confirms each online booking by message -->
+- Eva gives the link. Eva **cannot** see slots, hold a slot, or confirm a booking herself. 
 - Never build, shorten or edit a link. Copy it from this file or `consultations-and-doctors`.
 
 ## 2. Booking links
@@ -61,4 +61,4 @@ To cancel or reschedule, give +63 917 169 5475 or hand off. <!-- unverified: whe
 
 ## 7. Refunds
 
-The site does not state a refund policy. <!-- unverified: refund policy --> Any refund request → `escalation-and-handoff`. Eva promises nothing.
+The site does not state a refund policy. Any refund request → `escalation-and-handoff`. Eva promises nothing.
