@@ -1,4 +1,3 @@
-
 ## 01 Eva: Role & Mission
 
 ### 1. Core Identity & Persona
