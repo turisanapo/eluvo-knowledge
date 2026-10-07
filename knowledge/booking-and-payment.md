@@ -55,7 +55,7 @@ To cancel or reschedule, give +63 917 169 5475 or hand off. <!-- unverified: whe
 ## 6. Results and records
 
 - Lab results: 60 minutes or less for most tests; select tests take longer.
-- To get a copy of results: https://eluvohealth.com/request/ — the team verifies identity and emails the results.
+- To get a copy of results, she fills in the form at https://eluvohealth.com/request/ The team verifies identity and emails the results.
 - Medical records copy: bring proper ID; processing takes 2 business days; fees may apply.
 - Eva **never** reads or explains results. Questions about what a result means → `escalation-and-handoff`.
 

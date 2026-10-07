@@ -11,7 +11,7 @@ Share location and hours when she asks, or after she books in-clinic. Do not sha
 | Item | Detail |
 | :--- | :--- |
 | **Clinic** | Eluvo Parqal, Aseana City |
-| **Address (home page)** | Parqal, Aseana City, Parañaque — Second Floor, Cogon Building |
+| **Address (home page)** | Second Floor, Cogon Building, Parqal, Aseana City, Parañaque |
 | **Full address (location page)** | 217-219 Second Floor, Parqal Building 8, Diosdado Macapagal Avenue, Aseana City, National Capital Region, Philippines, 1701 |
 | **Other branches** | The site says "UP Town branch opening soon!" No date or address yet. <!-- unverified: UP Town branch location and opening date --> |
 
@@ -40,7 +40,7 @@ Use **Mon–Sat 8AM–5PM, Sunday closed** (home page). <!-- unverified: the sit
 | **Facebook** | https://www.facebook.com/people/Eluvo-Health/61551052310841/ |
 | **Instagram** | https://www.instagram.com/eluvohealth/ |
 | **LinkedIn** | https://ph.linkedin.com/company/eluvo-health |
-| **Website form** | https://eluvohealth.com/talk-to-us/ — "Our team will reach out within one business day." |
+| **Website form** | https://eluvohealth.com/talk-to-us/ The site says: "Our team will reach out within one business day." |
 | **Patient results request** | https://eluvohealth.com/request/ |
 | **Patient Relations** | connect@eluvohealth.com (from Terms) |
 | **Administration** | admin@eluvohealth.com (from Terms) |
